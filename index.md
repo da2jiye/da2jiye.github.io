@@ -1,7 +1,7 @@
 
 <body bgcolor="#F5F5F5" text="#000000" >
 <a id="top"></a>
-<h1><font size="50px" face="隶书" color="#EF904C">我的简介</font> </h1>
+<h1><font size="50px" face="隶书" color="#000000">我的简介</font> </h1>
 
 
 <hr width="800px" size="4px" align="left" color="#000000">
