@@ -12,7 +12,7 @@
 <tr>
   <td>姓名：应家健 </td>
   <td>特长：热爱学习</td>
-  <td>  <img src="111.jpg" ></td>
+  <td  width="25%">  <img src="111.jpg" ></td>
   
 </tr>
 <tr>
