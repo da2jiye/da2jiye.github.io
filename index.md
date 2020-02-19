@@ -20,14 +20,4 @@
   <td>籍贯：中国浙江</td>
 
 </tr>
-</div>
-    <nav>
-     <ul>
-      <li link="div1"><a href="#" ><span>sp</span></a></li>
-      <li link="div2"><a href="#"><span>ssr</span></a></li>
-      <li link="div3"><a href="#"><span>sr</span></a></li>
-      <li link="div4"><a href="#" ><span>r</span></a></li>
-      <li link="div5"><a href="#" ><span>n</span></a></li>
-     </ul>
-    </nav>
-</body>
+
