@@ -1,6 +1,6 @@
 <head>
   <meta charset="UTF-8">
-  <title>yjj的主页</title>
+  <title> yjj的主页 </title>
 </head>
 <body bgcolor="#F5F5F5" text="#000000" >
 <a id="top"></a>
