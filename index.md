@@ -1,7 +1,7 @@
 <html>
 <head>
   <meta charset="UTF-8">
-  <title> yjj的主页 </title>
+ 
 </head>
 <body bgcolor="#F5F5F5" text="#000000" >
 <a id="top"></a>
@@ -25,6 +25,10 @@
   <td>籍贯：中国浙江</td>
 
 </tr>
+<tr>
+  <td>学历:本科在读</td>
+    <td>邮箱：1120106565@qq.com>
+</tr>
 </table>
 
 <a id="2"></a>
@@ -35,5 +39,6 @@
 <li><a  target="_blank">*****</a></li>
 
 </ul>
+
 <html>
 
