@@ -1,3 +1,4 @@
+<html>
 <head>
   <meta charset="UTF-8">
   <title> yjj的主页 </title>
@@ -34,4 +35,5 @@
 <li><a  target="_blank">*****</a></li>
 
 </ul>
+<html>
 
