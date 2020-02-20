@@ -10,10 +10,10 @@
 <caption ><font size="15px" face="隶书" color="#000000">我的基本信息</font></caption>
 
 <tr>
-  <td  width="25%">  <img src="111.jpg" ></td>
+  
   <td>姓名：应家健 </td>
   <td>特长：热爱学习</td>
- 
+ <td  width="25%">  <img src="111.jpg" ></td>
   
 </tr>
 <tr>
