@@ -21,4 +21,12 @@
   <td>籍贯：中国浙江</td>
 
 </tr>
+</table>
+<a id="2"></a>
+<h3 ><font size="15px" face="隶书" color="#000000">我的推荐 </font></h3>
+<ul >
+<li><a href="https://www.iqiyi.com/v_19rra0h3wg.html?vfm=2008_aldbd&fc=828fb30b722f3164&fv=p_02_01" target="_blank">肖申克的救赎</a></li>
+<li><a  target="_blank">*****</a></li>
+<li><a  target="_blank">*****</a></li>
 
+</ul>
