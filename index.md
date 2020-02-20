@@ -1,8 +1,4 @@
-<html>
-<head>
-  <meta charset="UTF-8">
- 
-</head>
+
 <body bgcolor="#F5F5F5" text="#000000" >
 <a id="top"></a>
 <h1><font size="50px" face="隶书" color="#000000">我的简介</font> </h1>
@@ -40,5 +36,4 @@
 
 </ul>
 
-<html>
 
