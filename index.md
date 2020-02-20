@@ -22,6 +22,37 @@
 
 </tr>
 </table>
+<style type="text/css">
+    /*类型选择器nav表示导航*/
+    nav {
+        width:300px;
+        height:100px;
+        margin-top: 500px;
+        margin-left: 100P;
+    }
+    /*类型选择器a表示链接*/
+    a { 
+        text-decoration:none;
+        display:block;
+        color: #fff;
+        height:35px;
+        padding:0px 58px;
+    }
+    ul{
+      list-style: none ;
+    }
+    li {
+          background-color: rgba(0,20,0,0.5);
+          height:35px;
+          line-height: 35px;
+          overflow: hidden;
+    }
+    li:nth-of-type(2n) {
+          background-color: rgba(0,20,0,0.7);
+    }
+    li:hover {
+          background: red;
+    }
 <a id="2"></a>
 <h3 ><font size="15px" face="隶书" color="#000000">我的推荐 </font></h3>
 <ul >
